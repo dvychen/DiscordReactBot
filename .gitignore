@@ -1,0 +1,2 @@
+# Hide .env to hide React Bot token.
+*.env
